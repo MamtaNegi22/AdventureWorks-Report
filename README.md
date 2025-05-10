@@ -7,15 +7,16 @@ This is a Power BI Dashboard Report prepared under the guidance of a professiona
 * Created **Interactive Dashboards** and Prepared Report.
 * [Adventure Works Report Pdf](https://github.com/MamtaNegi22/AdventureWorks-Report/tree/main/Adventure%20works%20dataset)
 
-* **Executive Dashboard**
+**Executive Dashboard**
+ 
+ <img width="960" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/cf137369-b90f-4341-87b1-795a2b3f3ef7" />
 
-<img width="960" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/8ef70b63-b4e2-4201-9a70-233503e993d1" />
+
+**Product detail**
+
+ <img width="960" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/d041b6a2-150a-4e1b-8881-f0813cb1338d" />
 
 
-* **Product detail**
+**Customer Detail**
 
-<img width="960" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/fbb101f1-7e71-4ad1-ba53-6f90ca53b67d" />
-
-* **Customer Detail**
-
-* <img width="960" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b3b13ad5-49cb-44fb-ac8e-45a14d0df72e" />
+ <img width="960" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/5cb23a1f-941e-4fb0-98c4-f895c9f51297" />
